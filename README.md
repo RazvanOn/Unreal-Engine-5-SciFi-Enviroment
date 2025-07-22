@@ -2,7 +2,7 @@
 
 This is a showcase of a cinematic scene created in **Unreal Engine 5**, adapted from a tutorial series focused on building a detailed sci-fi environment using **Lumen** for lighting and **Nanite** for high-poly assets.
 
-Due to GitHub's repository size limitations, this project does **not include the full UE5 source files**. Instead, the **`Showcase/`** folder contains a curated set of rendered frames from the scene to illustrate the final look.
+Due to GitHub's repository size limitations, this project does **not include the full UE5 source files**. Instead, the **`Showcase/`** folder contains a curated set of rendered frames from the scene and a video to illustrate the final look.
 
 ---
 
